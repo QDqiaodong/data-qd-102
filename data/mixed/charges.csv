@@ -1,0 +1,7 @@
+batch_id,charge_id,material_id,net,unit
+B1,C1,P1,700,kg
+B1,C2,P2,300,kg
+B2,C3,P2,200,kg
+B2,C4,P1,300,kg
+B3,C5,G1,500,kg
+B3,C6,G2,300,kg

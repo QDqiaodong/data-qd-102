@@ -14,3 +14,7 @@ include = ["recovery_lake*"]
 
 [tool.setuptools.package-data]
 recovery_lake = ["*.sql"]
+
+[project.scripts]
+recovery-lake = "recovery_lake.__main__:main"
+recovery-lake-mixed = "recovery_lake.mixed.__main__:main"

@@ -1,0 +1,7 @@
+batch_id,stream_id,kind,mass,unit
+B1,S1,recovered,800,kg
+B1,S2,residue,200,kg
+B2,S3,recovered,0.3,t
+B2,S4,residue,0.2,t
+B3,S5,recovered,720,kg
+B3,S6,residue,80,kg
